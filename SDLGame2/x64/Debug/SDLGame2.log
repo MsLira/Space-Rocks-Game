@@ -1,0 +1,55 @@
+﻿  Asteroid Big.cpp
+C:\Users\Miriam\Desktop\MLiraCPPA3_14\SDLGame2\SDLGame2\Asteroid Big.cpp(28,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Miriam\Desktop\MLiraCPPA3_14\SDLGame2\SDLGame2\Asteroid Big.cpp(29,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Miriam\Desktop\MLiraCPPA3_14\SDLGame2\SDLGame2\Asteroid Big.cpp(56,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Miriam\Desktop\MLiraCPPA3_14\SDLGame2\SDLGame2\Asteroid Big.cpp(58,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Miriam\Desktop\MLiraCPPA3_14\SDLGame2\SDLGame2\Asteroid Big.cpp(82,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Miriam\Desktop\MLiraCPPA3_14\SDLGame2\SDLGame2\Asteroid Big.cpp(88,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Miriam\Desktop\MLiraCPPA3_14\SDLGame2\SDLGame2\Asteroid Big.cpp(106,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Miriam\Desktop\MLiraCPPA3_14\SDLGame2\SDLGame2\Asteroid Big.cpp(112,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Miriam\Desktop\MLiraCPPA3_14\SDLGame2\SDLGame2\Asteroid Big.cpp(131,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Miriam\Desktop\MLiraCPPA3_14\SDLGame2\SDLGame2\Asteroid Big.cpp(137,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Miriam\Desktop\MLiraCPPA3_14\SDLGame2\SDLGame2\Asteroid Big.cpp(155,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Miriam\Desktop\MLiraCPPA3_14\SDLGame2\SDLGame2\Asteroid Big.cpp(161,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Miriam\Desktop\MLiraCPPA3_14\SDLGame2\SDLGame2\Asteroid Big.cpp(192,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Miriam\Desktop\MLiraCPPA3_14\SDLGame2\SDLGame2\Asteroid Big.cpp(200,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Miriam\Desktop\MLiraCPPA3_14\SDLGame2\SDLGame2\Asteroid Big.cpp(207,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Miriam\Desktop\MLiraCPPA3_14\SDLGame2\SDLGame2\Asteroid Big.cpp(214,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Miriam\Desktop\MLiraCPPA3_14\SDLGame2\SDLGame2\Asteroid Big.cpp(221,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  AsteroidSmall.cpp
+C:\Users\Miriam\Desktop\MLiraCPPA3_14\SDLGame2\SDLGame2\AsteroidSmall.cpp(27,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Miriam\Desktop\MLiraCPPA3_14\SDLGame2\SDLGame2\AsteroidSmall.cpp(28,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Miriam\Desktop\MLiraCPPA3_14\SDLGame2\SDLGame2\AsteroidSmall.cpp(49,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Miriam\Desktop\MLiraCPPA3_14\SDLGame2\SDLGame2\AsteroidSmall.cpp(50,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Miriam\Desktop\MLiraCPPA3_14\SDLGame2\SDLGame2\AsteroidSmall.cpp(56,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Miriam\Desktop\MLiraCPPA3_14\SDLGame2\SDLGame2\AsteroidSmall.cpp(104,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Miriam\Desktop\MLiraCPPA3_14\SDLGame2\SDLGame2\AsteroidSmall.cpp(106,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Miriam\Desktop\MLiraCPPA3_14\SDLGame2\SDLGame2\AsteroidSmall.cpp(130,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Miriam\Desktop\MLiraCPPA3_14\SDLGame2\SDLGame2\AsteroidSmall.cpp(138,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Miriam\Desktop\MLiraCPPA3_14\SDLGame2\SDLGame2\AsteroidSmall.cpp(145,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Miriam\Desktop\MLiraCPPA3_14\SDLGame2\SDLGame2\AsteroidSmall.cpp(152,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Miriam\Desktop\MLiraCPPA3_14\SDLGame2\SDLGame2\AsteroidSmall.cpp(159,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  bullet.cpp
+C:\Users\Miriam\Desktop\MLiraCPPA3_14\SDLGame2\SDLGame2\bullet.cpp(22,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Miriam\Desktop\MLiraCPPA3_14\SDLGame2\SDLGame2\bullet.cpp(23,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Miriam\Desktop\MLiraCPPA3_14\SDLGame2\SDLGame2\bullet.cpp(85,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Miriam\Desktop\MLiraCPPA3_14\SDLGame2\SDLGame2\bullet.cpp(86,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Miriam\Desktop\MLiraCPPA3_14\SDLGame2\SDLGame2\bullet.cpp(100,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Miriam\Desktop\MLiraCPPA3_14\SDLGame2\SDLGame2\bullet.cpp(102,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Miriam\Desktop\MLiraCPPA3_14\SDLGame2\SDLGame2\bullet.cpp(133,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Miriam\Desktop\MLiraCPPA3_14\SDLGame2\SDLGame2\bullet.cpp(134,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+C:\Users\Miriam\Desktop\MLiraCPPA3_14\SDLGame2\SDLGame2\main.cpp(59,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Miriam\Desktop\MLiraCPPA3_14\SDLGame2\SDLGame2\main.cpp(61,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Miriam\Desktop\MLiraCPPA3_14\SDLGame2\SDLGame2\main.cpp(100,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Miriam\Desktop\MLiraCPPA3_14\SDLGame2\SDLGame2\main.cpp(180,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Miriam\Desktop\MLiraCPPA3_14\SDLGame2\SDLGame2\main.cpp(181,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Miriam\Desktop\MLiraCPPA3_14\SDLGame2\SDLGame2\main.cpp(394,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Miriam\Desktop\MLiraCPPA3_14\SDLGame2\SDLGame2\main.cpp(422,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Miriam\Desktop\MLiraCPPA3_14\SDLGame2\SDLGame2\main.cpp(429,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Miriam\Desktop\MLiraCPPA3_14\SDLGame2\SDLGame2\main.cpp(436,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Miriam\Desktop\MLiraCPPA3_14\SDLGame2\SDLGame2\main.cpp(443,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Miriam\Desktop\MLiraCPPA3_14\SDLGame2\SDLGame2\main.cpp(508,97): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Miriam\Desktop\MLiraCPPA3_14\SDLGame2\SDLGame2\main.cpp(508,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  SDLGame2.vcxproj -> C:\Users\Miriam\Desktop\MLiraCPPA3_14\SDLGame2\x64\Debug\SDLGame2.exe
